@@ -7,7 +7,7 @@
 <!-- 夸夸区：点击夸赞御坂御坂，每人每天一次 -->
 <p align="center">
   <a href="https://praise-misaka.joez66518.workers.dev/">
-    <img src="https://img.shields.io/badge/夸夸御坂御坂-点这里!-ff69b4?style=for-the-badge" alt="夸夸御坂御坂" />
+    <img src="https://img.shields.io/badge/点这里夸赞御坂御坂!-ff69b4?style=for-the-badge" alt="点这里夸赞御坂御坂" />
   </a>
   <img src="https://praise-misaka.joez66518.workers.dev/badge.svg" alt="御坂御坂已被夸奖" />
 </p>
