@@ -4,6 +4,14 @@
 
 <br/>
 
+<!-- 夸夸区：点击夸赞御坂御坂，每人每天一次 -->
+<p align="center">
+  <a href="https://praise-misaka.YOUR-SUBDOMAIN.workers.dev/">
+    <img src="https://img.shields.io/badge/夸夸御坂御坂-点这里!-ff69b4?style=for-the-badge" alt="夸夸御坂御坂" />
+  </a>
+  <img src="https://praise-misaka.YOUR-SUBDOMAIN.workers.dev/badge.svg" alt="御坂御坂已被夸奖" />
+</p>
+
 <!-- 连续打卡：今日提交 / 连续天数 / 最长连续 / 总提交数 -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DinoCatKiller&theme=calm_pink&hide_border=true&border_radius=12" alt="GitHub Streak" />
@@ -18,12 +26,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinoCatKiller&show_icons=true&theme=calm_pink&hide_border=true&border_radius=12" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoCatKiller&layout=donut&theme=calm_pink&hide_border=true&border_radius=12" alt="Top Languages" />
-</p>
-
-<!-- 夸夸区：点击夸赞御坂御坂，每人每天一次 -->
-<p align="center">
-  <a href="https://praise-misaka.YOUR-SUBDOMAIN.workers.dev/">
-    <img src="https://img.shields.io/badge/夸夸御坂御坂-点这里!-ff69b4?style=for-the-badge" alt="夸夸御坂御坂" />
-  </a>
-  <img src="https://praise-misaka.YOUR-SUBDOMAIN.workers.dev/badge.svg" alt="御坂御坂已被夸奖" />
 </p>
