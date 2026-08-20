@@ -140,7 +140,8 @@ export default {
       // 首次夸赞 → 计数 +1 并记录
       const next = String(Number(total) + 1);
       await env[KV_NAME].put("total", next);
-      await env[KV_NAME].put(todayKey, "1");
+      // daily key 只保留 2 天，自动过期清理，避免历史记录无限累积
+      await env[KV_NAME].put(todayKey, "1", { expirationTtl: 172800 });
       return new Response(pageHtml(true, next), {
         headers: { "Content-Type": "text/html; charset=utf-8" },
       });
